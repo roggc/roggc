@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @roggc
-- 👀 I’m interested in react.js and vue.js
-- 🌱 I’m currently learning react.js and vue.js
-- 💞️ I’m looking to collaborate on react.js and vue.js
+- 👀 I’m interested in react.js
+- 🌱 I’m currently working with react.js 
 - 📫 How to reach me roggc9@gmail.com
 
 <!---
